@@ -11,6 +11,7 @@
 
 #include <cmath>
 #include <vector>
+#include <algorithm>
 
 #define ABS(x) ((x >= 0) ? x : -x)
 
