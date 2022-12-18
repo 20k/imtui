@@ -18,6 +18,7 @@ add_library(imgui-for-imtui STATIC
     imgui/imgui/imgui_demo.cpp
     imgui/imgui/imgui_widgets.cpp
     imgui/imgui/imgui_tables.cpp
+	imgui/imgui/misc/cpp/imgui_stdlib.cpp
     )
 
 target_include_directories(imgui-for-imtui INTERFACE
